@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "1",
+    "chapter": "解表剂",
+    "section": "辛温解表",
+    "formulaName": "麻黄汤",
+    "verse": "麻黄汤中用桂枝，杏仁甘草四般施；恶寒发热头身痛，无汗而喘服之宜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "2",
+    "chapter": "解表剂",
+    "section": "辛温解表",
+    "formulaName": "桂枝汤",
+    "verse": "桂枝芍药等量伍，姜枣甘草微火煮；解肌发表调营卫，中风表虚自汗出。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "3",
+    "chapter": "解表剂",
+    "section": "辛温解表",
+    "formulaName": "九味羌活汤",
+    "verse": "九味羌活防风苍，辛芷芎草芩地黄；发汗祛湿兼清热，分经论治变通良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "4",
+    "chapter": "解表剂",
+    "section": "辛温解表",
+    "formulaName": "香苏散",
+    "verse": "香苏散内草陈皮，外感风寒气滞宜；寒热头痛胸脘闷，解表又能疏气机。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "5",
+    "chapter": "解表剂",
+    "section": "辛温解表",
+    "formulaName": "小青龙汤",
+    "verse": "解表蠲饮小青龙，麻桂姜辛夏草从；芍药五味敛气阴，表寒内饮最有功。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "6",
+    "chapter": "解表剂",
+    "section": "辛温解表",
+    "formulaName": "射干麻黄汤",
+    "verse": "射干麻黄亦治水，不在发表在宣肺；姜枣细辛款冬花，紫菀半夏加五味。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "7",
+    "chapter": "解表剂",
+    "section": "辛温解表",
+    "formulaName": "香薷散",
+    "verse": "三物香薷豆朴先，散寒化湿功效兼；若益银翘豆易花，新加香薷祛暑煎。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "8",
+    "chapter": "解表剂",
+    "section": "辛凉解表",
+    "formulaName": "桑菊饮",
+    "verse": "桑菊饮中桔杏翘，芦根甘草薄荷饶；清疏肺卫轻宣剂，风温咳嗽服之消。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "9",
+    "chapter": "解表剂",
+    "section": "辛凉解表",
+    "formulaName": "银翘散",
+    "verse": "银翘散主上焦医，竹叶荆牛薄荷豉；甘桔芦根凉解法，风温初感此方宜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "10",
+    "chapter": "解表剂",
+    "section": "辛凉解表",
+    "formulaName": "麻黄杏仁甘草石膏汤",
+    "verse": "伤寒麻杏甘石汤，肺热喘咳兼烦满；辛凉宣泄能清肺，定喘除烦效力彰。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "11",
+    "chapter": "解表剂",
+    "section": "辛凉解表",
+    "formulaName": "柴葛解肌汤",
+    "verse": "柴葛解肌芷桔羌，膏芩芍草枣生姜；恶寒渐轻热增重，解肌清热此方良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "12",
+    "chapter": "解表剂",
+    "section": "辛凉解表",
+    "formulaName": "升麻葛根汤",
+    "verse": "阎氏升麻葛根汤，芍药甘草合成方；麻疹初期出不透，解肌透疹此方良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "13",
+    "chapter": "解表剂",
+    "section": "扶正解表",
+    "formulaName": "败毒散",
+    "verse": "人参败毒草苓芎，羌独柴前枳桔同；薄荷少许姜三片，益气解表有奇功。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "14",
+    "chapter": "解表剂",
+    "section": "扶正解表",
+    "formulaName": "再造散",
+    "verse": "再造散用参芪甘，芎芍桂附与羌防；细辛煨姜大枣入，阳虚无汗病可安。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "15",
+    "chapter": "解表剂",
+    "section": "扶正解表",
+    "formulaName": "麻黄附子细辛汤",
+    "verse": "麻黄附子细辛汤，温经解表法优良；少阴脉沉反发热，寒邪外解不伤阳。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "16",
+    "chapter": "解表剂",
+    "section": "扶正解表",
+    "formulaName": "加减葳蕤汤",
+    "verse": "加减葳蕤用白薇，豆豉生葱桔梗随；草枣薄荷共八味，滋阴发汗此方魁。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "17",
+    "chapter": "泻下剂",
+    "section": "寒下",
+    "formulaName": "大承气汤及类方",
+    "verse": "大承气汤大黄硝，枳实厚朴先煮好；峻下热结急存阴，阳明腑实重症疗。去硝名为小承气，轻下热结用之效；调胃承气硝黄草，缓下热结此方饶。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "18",
+    "chapter": "泻下剂",
+    "section": "温下",
+    "formulaName": "温脾汤",
+    "verse": "温脾附子与干姜，甘草人参及大黄；寒热并进补兼泻，温通寒积振脾阳。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "19",
+    "chapter": "泻下剂",
+    "section": "温下",
+    "formulaName": "大黄附子汤",
+    "verse": "大黄附子细辛汤，寒积腹痛便秘方；冷积内结成实证，功专温下妙非常。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "20",
+    "chapter": "泻下剂",
+    "section": "润下",
+    "formulaName": "麻子仁丸",
+    "verse": "麻子仁丸治脾约，枳朴大黄麻杏芍；胃燥津枯便难解，润肠泻热功效高。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "21",
+    "chapter": "泻下剂",
+    "section": "润下",
+    "formulaName": "济川煎",
+    "verse": "济川归膝肉苁蓉，泽泻升麻枳壳从；肾虚精亏肠中燥，温润通便法堪宗。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "22",
+    "chapter": "泻下剂",
+    "section": "逐水",
+    "formulaName": "十枣汤",
+    "verse": "十枣逐水效堪夸，大戟甘遂与芫花；悬饮内停胸胁痛，水肿腹胀用无差。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "23",
+    "chapter": "泻下剂",
+    "section": "攻补兼施",
+    "formulaName": "黄龙汤",
+    "verse": "黄龙汤枳朴硝黄，参归甘桔枣生姜；阳明腑实气血弱，攻补兼施效力强。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "24",
+    "chapter": "和解剂",
+    "section": "和解少阳",
+    "formulaName": "小柴胡汤",
+    "verse": "小柴胡汤和解功，半夏人参甘草从；更加黄芩生姜枣，少阳百病此方宗。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "25",
+    "chapter": "和解剂",
+    "section": "和解少阳",
+    "formulaName": "蒿芩清胆汤",
+    "verse": "蒿芩清胆枳竹茹，陈夏茯苓加碧玉；热重寒轻兼痰湿，胸痞呕恶总能除。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "26",
+    "chapter": "和解剂",
+    "section": "和解少阳",
+    "formulaName": "达原饮",
+    "verse": "达原饮中朴槟芩，芍药知甘草果仁；开达膜原治温疫，辟秽化浊功用神。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "27",
+    "chapter": "和解剂",
+    "section": "调和肝脾",
+    "formulaName": "四逆散",
+    "verse": "四逆散方用柴胡，芍药枳实甘草须；证为阳郁成厥逆，疏肝解郁厥自除。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "28",
+    "chapter": "和解剂",
+    "section": "调和肝脾",
+    "formulaName": "逍遥散",
+    "verse": "逍遥散中当归芍，柴苓术草加姜薄；疏肝养血又健脾，肝郁血虚脾气弱。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "29",
+    "chapter": "和解剂",
+    "section": "调和肝脾",
+    "formulaName": "痛泻要方",
+    "verse": "痛泻要方用陈皮，术芍防风共成剂；肠鸣泄泻腹又痛，治在泻肝与补脾。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "30",
+    "chapter": "和解剂",
+    "section": "调和肠胃",
+    "formulaName": "半夏泻心汤",
+    "verse": "半夏泻心黄连芩，干姜草枣人参行；辛开苦降消痞满，治在调阳与和阴。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "31",
+    "chapter": "清热剂",
+    "section": "清气分热",
+    "formulaName": "栀子豉汤",
+    "verse": "栀子豉汤治懊憹，胸膈郁热此方好；如兼呕吐增生姜，若是少气加甘草。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "32",
+    "chapter": "清热剂",
+    "section": "清气分热",
+    "formulaName": "白虎汤",
+    "verse": "白虎膏知甘草粳，气分大热此方清；热渴汗出脉洪大，加入人参气津生。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "33",
+    "chapter": "清热剂",
+    "section": "清气分热",
+    "formulaName": "竹叶石膏汤",
+    "verse": "竹叶石膏汤人参，麦冬半夏甘草临；再加粳米同煎服，清热益气养阴津。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "34",
+    "chapter": "清热剂",
+    "section": "清气分热",
+    "formulaName": "清暑益气汤",
+    "verse": "王氏清暑益气汤，善治中暑气津伤；洋参冬斛荷瓜翠，连竹知母甘粳襄。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "35",
+    "chapter": "清热剂",
+    "section": "清营凉血",
+    "formulaName": "清营汤",
+    "verse": "清营汤治热传营，身热夜甚神不宁；角地银翘玄连竹，丹麦清热更护阴。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "36",
+    "chapter": "清热剂",
+    "section": "清营凉血",
+    "formulaName": "犀角地黄汤",
+    "verse": "犀角地黄芍药丹，血热妄行吐衄斑；蓄血发狂舌质绛，凉血散瘀病可痊。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "37",
+    "chapter": "清热剂",
+    "section": "清热解毒",
+    "formulaName": "黄连解毒汤",
+    "verse": "黄连解毒汤四味，黄芩黄柏栀子备；躁狂大热呕不眠，吐衄发斑均可为。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "38",
+    "chapter": "清热剂",
+    "section": "清热解毒",
+    "formulaName": "凉膈散",
+    "verse": "凉膈硝黄栀子翘，黄芩甘草薄荷饶；竹叶蜜煎疗膈热，中焦燥实服之消。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "39",
+    "chapter": "清热剂",
+    "section": "清热解毒",
+    "formulaName": "普济消毒饮",
+    "verse": "普济消毒蒡芩连，甘桔蓝根勃翘玄；升柴陈薄僵蚕入，大头瘟毒服之痊。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "40",
+    "chapter": "清热剂",
+    "section": "气血两清",
+    "formulaName": "清瘟败毒饮",
+    "verse": "清瘟败毒地连芩，丹膏栀草竹叶寻；犀角翘芍知玄桔，气血两燔服之清。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "41",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "导赤散",
+    "verse": "导赤生地与木通，草梢竹叶四般供；口糜淋痛小肠火，引热同归小便中。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "42",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "龙胆泻肝汤",
+    "verse": "龙胆泻肝栀芩柴，生地车前泽泻偕；木通甘草当归合，肝经湿热力能排。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "43",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "左金丸",
+    "verse": "左金黄连与吴萸，胁痛吞酸悉能除；再加芍药名戊己，专治泻痢与腹痛。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "44",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "泻白散",
+    "verse": "泻白桑皮地骨皮，甘草粳米四般宜；泻肺清热平咳喘，又可和中与健脾。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "45",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "清胃散",
+    "verse": "清胃散中当归连，生地丹皮升麻全；或加石膏泻胃火，能消牙痛与牙宣。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "46",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "玉女煎",
+    "verse": "玉女煎用熟地黄，膏知牛膝麦冬襄；胃火阴虚相因病，牙痛齿衄宜煎尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "47",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "芍药汤",
+    "verse": "芍药汤中用大黄，芩连归桂槟草香；清热燥湿调气血，下利腹痛自安康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "48",
+    "chapter": "清热剂",
+    "section": "清脏腑热",
+    "formulaName": "白头翁汤",
+    "verse": "白头翁汤治热痢，黄连黄柏与秦皮；清热解毒并凉血，坚阴止痢功效奇。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "49",
+    "chapter": "清热剂",
+    "section": "清虚热",
+    "formulaName": "青蒿鳖甲汤",
+    "verse": "青蒿鳖甲知地丹，热伏阴分此方攀；夜热早凉无汗出，透热养阴服之安。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "50",
+    "chapter": "清热剂",
+    "section": "清虚热",
+    "formulaName": "清骨散",
+    "verse": "清骨散用银柴胡，胡连秦艽鳖甲辅；地骨青蒿知母草，骨蒸劳热一并除。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "51",
+    "chapter": "清热剂",
+    "section": "清虚热",
+    "formulaName": "当归六黄汤",
+    "verse": "当归六黄二地黄，芩连芪柏共煎尝；滋阴泻火兼固表，阴虚火旺盗汗良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "52",
+    "chapter": "温里剂",
+    "section": "温中祛寒",
+    "formulaName": "理中丸",
+    "verse": "理中丸主温中阳，甘草人参术干姜；吐利腹痛阴寒盛，或加附子更扶阳。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "53",
+    "chapter": "温里剂",
+    "section": "温中祛寒",
+    "formulaName": "吴茱萸汤",
+    "verse": "吴茱萸汤参枣姜，肝胃虚寒此法良；阳明寒呕少阴利，厥阴头痛皆能康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "54",
+    "chapter": "温里剂",
+    "section": "温中祛寒",
+    "formulaName": "小建中汤",
+    "verse": "小建中汤芍药多，桂枝甘草姜枣和；更加饴糖补中脏，虚劳腹痛服之瘥。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "55",
+    "chapter": "温里剂",
+    "section": "回阳救逆",
+    "formulaName": "四逆汤",
+    "verse": "四逆汤中附草姜，四肢厥逆急煎尝；脉微吐利阴寒盛，救逆回阳赖此方。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "56",
+    "chapter": "温里剂",
+    "section": "回阳救逆",
+    "formulaName": "参附汤",
+    "verse": "参附汤是救脱方，补气回阳效力彰；元气大亏阳暴脱，脉微肢厥自尔康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "57",
+    "chapter": "温里剂",
+    "section": "回阳救逆",
+    "formulaName": "回阳救急汤",
+    "verse": "回阳救急用六君，附桂干姜五味寻；加麝三厘或胆汁，三阴寒厥建奇勋。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "58",
+    "chapter": "温里剂",
+    "section": "温经散寒",
+    "formulaName": "当归四逆汤",
+    "verse": "当归四逆桂枝芍，细辛草枣木通着；血虚寒厥四末冷，养血温经此方饶。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "59",
+    "chapter": "温里剂",
+    "section": "温经散寒",
+    "formulaName": "黄芪桂枝五物汤",
+    "verse": "黄芪桂枝五物汤，芍药大枣与生姜；营卫俱虚风寒袭，血痹服之功效良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "60",
+    "chapter": "表里双解剂",
+    "section": "解表清里",
+    "formulaName": "葛根黄芩黄连汤",
+    "verse": "葛根黄芩黄连汤，再加甘草共煎尝；邪陷阳明成热利，清里解表保安康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "61",
+    "chapter": "表里双解剂",
+    "section": "解表清里",
+    "formulaName": "石膏汤",
+    "verse": "石膏汤用芩柏连，麻黄豆豉山栀全；清热发汗兼解毒，表里三焦热盛宣。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "62",
+    "chapter": "表里双解剂",
+    "section": "解表温里",
+    "formulaName": "五积散",
+    "verse": "五积散治五般积，麻黄苍芷归芍芎；枳桔桂苓甘草朴，陈皮半夏两姜葱；理气解表祛寒湿，除积调经辨证从。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "63",
+    "chapter": "表里双解剂",
+    "section": "解表攻里",
+    "formulaName": "大柴胡汤",
+    "verse": "大柴胡汤用大黄，枳实芩夏白芍将；煎加姜枣表兼里，妙法内攻并外攘。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "64",
+    "chapter": "表里双解剂",
+    "section": "解表攻里",
+    "formulaName": "防风通圣散",
+    "verse": "防风通圣大黄硝，荆芥麻黄栀芍翘；甘桔芎归膏滑石，薄荷芩术力偏饶。表里交攻阳热盛，外疡疮毒总能消。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "65",
+    "chapter": "补益剂",
+    "section": "补气",
+    "formulaName": "四君子汤",
+    "verse": "四君子汤中和义，参术茯苓甘草比；益以夏陈名六君，祛痰补气中虚饵；除却半夏名异功，或加香砂胃寒使。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "66",
+    "chapter": "补益剂",
+    "section": "补气",
+    "formulaName": "参苓白术散",
+    "verse": "参苓白术扁豆临，山药甘莲砂薏仁；桔梗上浮兼保肺，枣汤调服益脾神。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "67",
+    "chapter": "补益剂",
+    "section": "补气",
+    "formulaName": "补中益气汤",
+    "verse": "补中益气芪术陈，升柴参草当归身；升阳举陷功独擅，气虚发热亦堪珍。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "68",
+    "chapter": "补益剂",
+    "section": "补气",
+    "formulaName": "玉屏风散",
+    "verse": "玉屏风散最有灵，芪术防风鼎足形；表虚汗多易感冒，益气固表止汗神。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "69",
+    "chapter": "补益剂",
+    "section": "补气",
+    "formulaName": "生脉散",
+    "verse": "生脉麦味与人参，益气养阴效力神；气少汗多兼口渴，病危脉绝急煎斟。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "70",
+    "chapter": "补益剂",
+    "section": "补气",
+    "formulaName": "人参蛤蚧散",
+    "verse": "人参蛤蚧作散服，杏苓桑皮草二母；肺肾气虚蕴痰热，咳喘痰血一并除。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "71",
+    "chapter": "补益剂",
+    "section": "补血",
+    "formulaName": "四物汤",
+    "verse": "四物地芍与归芎，血家百病此方宗；妇女经病凭加减，临证之时可变通。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "72",
+    "chapter": "补益剂",
+    "section": "补血",
+    "formulaName": "归脾汤",
+    "verse": "归脾汤用参术芪，归草茯神远志齐；酸枣木香龙眼肉，煎加姜枣益心脾；怔忡健忘俱可却，便血崩漏总能医。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "73",
+    "chapter": "补益剂",
+    "section": "补血",
+    "formulaName": "当归补血汤",
+    "verse": "当归补血东垣笺，黄芪一两归二钱；血虚发热口烦渴，脉大而虚宜此煎。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "74",
+    "chapter": "补益剂",
+    "section": "气血双补",
+    "formulaName": "八珍汤",
+    "verse": "双补气血八珍汤，四君四物益枣姜；再加黄芪与肉桂，十全大补效更强。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "75",
+    "chapter": "补益剂",
+    "section": "气血双补",
+    "formulaName": "炙甘草汤",
+    "verse": "炙甘草汤参桂姜，麦冬生地麻仁襄；大枣阿胶加酒服，通阳复脉第一方。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "76",
+    "chapter": "补益剂",
+    "section": "补阴",
+    "formulaName": "六味地黄丸",
+    "verse": "六味地黄益肾肝，山药丹泽萸苓掺；更加知柏成八味，阴虚火旺可煎餐；养阴明目加杞菊，滋阴都气五味研；肺肾两调金水生，麦冬加入长寿丸；再入磁柴可潜阳，耳鸣耳聋俱可安。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "77",
+    "chapter": "补益剂",
+    "section": "补阴",
+    "formulaName": "左归丸",
+    "verse": "左归丸内山药地，萸肉枸杞与牛膝；菟丝龟鹿二胶合，壮水之主方第一。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "78",
+    "chapter": "补益剂",
+    "section": "补阴",
+    "formulaName": "大补阴丸",
+    "verse": "大补阴丸知柏黄，龟甲脊髓蜜成方；咳嗽咯血骨蒸热，滋阴降火效力彰。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "79",
+    "chapter": "补益剂",
+    "section": "补阴",
+    "formulaName": "一贯煎",
+    "verse": "一贯煎中生地黄，沙参归杞麦冬藏。少佐川楝泄肝气，阴虚胁痛此方良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "80",
+    "chapter": "补益剂",
+    "section": "补阳",
+    "formulaName": "肾气丸",
+    "verse": "金匮肾气治肾虚，熟地怀药及山萸；丹皮苓泽加桂附，引火归原热下趋。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "81",
+    "chapter": "补益剂",
+    "section": "补阳",
+    "formulaName": "右归丸",
+    "verse": "右归丸中地附桂，山药茱萸菟丝归；杜仲鹿胶枸杞子，益火之源此方魁。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "82",
+    "chapter": "补益剂",
+    "section": "阴阳并补",
+    "formulaName": "地黄饮子",
+    "verse": "地黄饮子山茱斛，麦味菖蒲远志茯；苁蓉桂附巴戟天，少入薄荷姜枣服。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "83",
+    "chapter": "补益剂",
+    "section": "阴阳并补",
+    "formulaName": "龟鹿二仙胶",
+    "verse": "医便龟鹿二仙胶，人参枸杞熬成膏；滋阴益肾填精髓，精极用此疗效高。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "84",
+    "chapter": "固涩剂",
+    "section": "固表止汗",
+    "formulaName": "牡蛎散",
+    "verse": "牡蛎散内用黄芪，小麦麻黄根最宜；自汗盗汗心液损，固表敛汗见效奇。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "85",
+    "chapter": "固涩剂",
+    "section": "敛肺止咳",
+    "formulaName": "九仙散",
+    "verse": "九仙散用乌梅参，桔梗桑皮贝母承；粟壳阿胶冬花味，敛肺止咳气自生。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "86",
+    "chapter": "固涩剂",
+    "section": "涩肠固脱",
+    "formulaName": "真人养脏汤",
+    "verse": "真人养脏木香诃，当归肉蔻与粟壳；术芍参桂甘草共，脱肛久痢服之瘥。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "87",
+    "chapter": "固涩剂",
+    "section": "涩肠固脱",
+    "formulaName": "四神丸",
+    "verse": "四神故纸吴茱萸，肉蔻除油五味具；大枣生姜同煎合，五更肾泄最相宜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "88",
+    "chapter": "固涩剂",
+    "section": "涩精止遗",
+    "formulaName": "金锁固精丸",
+    "verse": "金锁固精芡实研，莲须龙牡沙苑填；莲粉糊丸盐汤下，肾虚精滑此方先。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "89",
+    "chapter": "固涩剂",
+    "section": "涩精止遗",
+    "formulaName": "桑螵蛸散",
+    "verse": "桑螵蛸散用龙龟，参苓菖远及当归；尿频遗尿精不固，滋肾宁心法勿违。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "90",
+    "chapter": "固涩剂",
+    "section": "固崩止带",
+    "formulaName": "固冲汤",
+    "verse": "固冲汤中重黄芪，术芍萸茜龙牡蛎；倍草海蛸棕榈炭，崩中漏下总能医。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "91",
+    "chapter": "固涩剂",
+    "section": "固崩止带",
+    "formulaName": "固经丸",
+    "verse": "固经丸中龟芍君，黄芩黄柏与椿皮；更加香附酒为丸，滋阴清热能固经。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "92",
+    "chapter": "固涩剂",
+    "section": "固崩止带",
+    "formulaName": "震灵丹",
+    "verse": "震灵丹用禹余粮，石脂石英没乳香；代赭灵脂朱砂合，崩中漏下服之康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "93",
+    "chapter": "固涩剂",
+    "section": "固崩止带",
+    "formulaName": "完带汤",
+    "verse": "完带汤中二术陈，车前甘草和人参；柴芍怀山黑芥穗，化湿止带此方珍。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "94",
+    "chapter": "固涩剂",
+    "section": "固崩止带",
+    "formulaName": "易黄汤",
+    "verse": "易黄白果与芡实，山药黄柏车前子；能消带下黏稠秽，补肾清热又祛湿。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "95",
+    "chapter": "安神剂",
+    "section": "重镇安神",
+    "formulaName": "朱砂安神丸",
+    "verse": "朱砂安神东垣方，归连甘草合地黄；怔忡不寐心烦乱，镇心泻火可复康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "96",
+    "chapter": "安神剂",
+    "section": "重镇安神",
+    "formulaName": "珍珠母丸",
+    "verse": "珍珠母丸归地参，犀沉龙齿柏枣仁；朱砂为衣茯神入，镇心潜阳又宁神。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "97",
+    "chapter": "安神剂",
+    "section": "补养安神",
+    "formulaName": "天王补心丹",
+    "verse": "补心丹用柏枣仁，二冬生地当归身；三参桔梗朱砂味，远志茯苓养心神。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "98",
+    "chapter": "安神剂",
+    "section": "补养安神",
+    "formulaName": "酸枣仁汤",
+    "verse": "酸枣仁汤治失眠，川芎知草茯苓煎；养血除烦清内热，安然入睡梦乡甜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "99",
+    "chapter": "安神剂",
+    "section": "交通心肾",
+    "formulaName": "交泰丸",
+    "verse": "心肾不交交泰丸，一份桂心十份连；怔忡不寐心阳亢，心肾交时自可安。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "100",
+    "chapter": "开窍剂",
+    "section": "凉开",
+    "formulaName": "安宫牛黄丸",
+    "verse": "安宫牛黄开窍方，芩连栀郁朱雄黄；牛角珍珠冰麝箔，热闭心包功效良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "101",
+    "chapter": "开窍剂",
+    "section": "凉开",
+    "formulaName": "紫雪",
+    "verse": "紫雪羚牛朱朴硝，硝磁寒水滑石膏；丁沉木麝升玄草，不用赤金法亦超。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "102",
+    "chapter": "开窍剂",
+    "section": "凉开",
+    "formulaName": "至宝丹",
+    "verse": "至宝朱砂麝息香，雄黄犀角与牛黄；金银二箔兼龙脑，琥珀还同玳瑁良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "103",
+    "chapter": "开窍剂",
+    "section": "凉开",
+    "formulaName": "行军散",
+    "verse": "诸葛行军痧胀方，珍珠牛麝冰雄黄；硼硝金箔共研末，窍闭神昏服之康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "104",
+    "chapter": "开窍剂",
+    "section": "温开",
+    "formulaName": "苏合香丸",
+    "verse": "苏合香丸麝息香，木丁荜茇乳檀芳；犀冰术沉诃香附，衣用朱砂中恶尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "105",
+    "chapter": "开窍剂",
+    "section": "温开",
+    "formulaName": "紫金锭",
+    "verse": "紫金锭用麝朱雄，慈戟千金五倍同；太乙玉枢名又别，祛痰逐秽及惊风。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "106",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "越鞠丸",
+    "verse": "越鞠丸治六般郁，气血湿痰食火因；香附芎苍兼栀曲，气畅郁舒痛闷伸。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "107",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "柴胡疏肝散",
+    "verse": "柴胡疏肝芍川芎，枳壳陈皮草香附；疏肝行气兼活血，胁肋疼胀皆可除。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "108",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "瓜蒌薤白白酒汤",
+    "verse": "瓜蒌薤白白酒汤，胸痹胸闷痛难当；喘息短气时咳唾，难卧当加半夏良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "109",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "半夏厚朴汤",
+    "verse": "半夏厚朴痰气阻，茯苓生姜共紫苏；加枣同煎名四七，行气降痰咽能舒。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "110",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "厚朴温中汤",
+    "verse": "厚朴温中陈草苓，干姜草蔻木香停；煎服加姜治腹痛，虚寒胀满用皆灵。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "111",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "天台乌药散",
+    "verse": "天台乌药木茴香，巴豆制楝青槟姜；行气疏肝且暖下，寒疝腹痛是良方。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "112",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "加味乌药汤",
+    "verse": "加味乌药汤砂仁，香附木香甘草伦；配入玄胡共六味，经前胀痛效堪珍。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "113",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "暖肝煎",
+    "verse": "暖肝煎中杞茯归，茴沉乌药合肉桂；下焦虚寒疝气痛，温补肝肾此方推。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "114",
+    "chapter": "理气剂",
+    "section": "行气",
+    "formulaName": "金铃子散",
+    "verse": "金铃子散止痛方，玄胡酒调效更强；疏肝清热行气血，心腹胸肋痛经匡。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "115",
+    "chapter": "理气剂",
+    "section": "降气",
+    "formulaName": "苏子降气汤",
+    "verse": "苏子降气半夏归，前胡桂朴草姜随；上实下虚痰嗽喘，或加沉香去肉桂。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "116",
+    "chapter": "理气剂",
+    "section": "降气",
+    "formulaName": "定喘汤",
+    "verse": "定喘白果与麻黄，款冬半夏白皮桑；苏杏黄芩兼甘草，风寒痰热喘哮尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "117",
+    "chapter": "理气剂",
+    "section": "降气",
+    "formulaName": "旋覆代赭汤",
+    "verse": "旋覆代赭重用姜，半夏人参甘枣尝；化痰降逆兼益胃，中虚痰阻噫痞康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "118",
+    "chapter": "理气剂",
+    "section": "降气",
+    "formulaName": "橘皮竹茹汤",
+    "verse": "橘皮竹茹治呕逆，人参甘草枣姜益；胃虚有热失和降，久病之后更相宜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "119",
+    "chapter": "理气剂",
+    "section": "降气",
+    "formulaName": "丁香柿蒂汤",
+    "verse": "丁香柿蒂人参姜，呃逆因寒中气伤；温中降逆又益气，胃气虚寒最相当。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "120",
+    "chapter": "理气剂",
+    "section": "降气",
+    "formulaName": "四磨汤",
+    "verse": "四磨饮子七情侵，人参乌药及槟沉；浓磨煎服调滞气，实者枳实易人参。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "121",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "桃核承气汤",
+    "verse": "桃核承气五药施，甘草硝黄并桂枝；瘀热互结小腹硬，蓄血如狂急服之。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "122",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "大黄䗪虫丸",
+    "verse": "大黄䗪虫芩芍桃，地黄杏草漆蛴螬；水蛭虻虫和丸服，去瘀生新干血疗。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "123",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "血府逐瘀汤",
+    "verse": "血府当归生地桃，红花甘草壳赤芍；柴胡芎桔牛膝等，血化下行不作劳。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "124",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "补阳还五汤",
+    "verse": "补阳还五赤芍芎，桃红归尾佐地龙；四两黄芪为君药，补气活血经络通。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "125",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "复元活血汤",
+    "verse": "复元活血用柴胡，大黄花粉桃红入；当归山甲与甘草，跌打损伤瘀痛除。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "126",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "小活络丹",
+    "verse": "小活络丹天南星，二乌乳没加地龙；寒湿瘀血成痹痛，搜风活血络脉通。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "127",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "温经汤",
+    "verse": "温经汤用桂萸芎，归芍丹皮姜夏冬；参草阿胶调气血，暖宫祛瘀在温通。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "128",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "生化汤",
+    "verse": "生化汤宜产后尝，归芎桃草酒炮姜；恶露不行少腹痛，温养活血最见长。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "129",
+    "chapter": "理血剂",
+    "section": "活血祛瘀",
+    "formulaName": "失笑散",
+    "verse": "失笑灵脂蒲黄同，等量为散酽醋冲；瘀血停滞心腹痛，祛瘀止痛建奇功。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "130",
+    "chapter": "理血剂",
+    "section": "止血",
+    "formulaName": "十灰散",
+    "verse": "十灰散用大小蓟，荷柏茅茜棕丹皮；山栀大黄俱为灰，上部出血此方宜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "131",
+    "chapter": "理血剂",
+    "section": "止血",
+    "formulaName": "咳血方",
+    "verse": "咳血方中诃子收，瓜蒌海粉黛栀投；姜汁蜜丸口噙化，木火刑金服之瘥。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "132",
+    "chapter": "理血剂",
+    "section": "止血",
+    "formulaName": "小蓟饮子",
+    "verse": "小蓟饮子藕蒲黄，木通滑石生地襄；归草栀子淡竹叶，热结血淋服之良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "133",
+    "chapter": "理血剂",
+    "section": "止血",
+    "formulaName": "槐花散",
+    "verse": "槐花散是许氏方，侧柏荆芥枳壳藏；清肠止血米饮下，肠风脏毒悉能康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "134",
+    "chapter": "理血剂",
+    "section": "止血",
+    "formulaName": "黄土汤",
+    "verse": "黄土汤用芩地黄，术附阿胶甘草尝；温阳健脾能摄血，吐衄便崩服之康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "135",
+    "chapter": "治风剂",
+    "section": "疏散外风",
+    "formulaName": "川芎茶调散",
+    "verse": "川芎茶调散荆防，辛芷薄荷甘草羌；目昏鼻塞风攻上，偏正头痛悉能康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "136",
+    "chapter": "治风剂",
+    "section": "疏散外风",
+    "formulaName": "大秦艽汤",
+    "verse": "大秦艽汤羌独防，芎芷辛芩二地黄；石膏归芍苓甘术，风中经络可煎尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "137",
+    "chapter": "治风剂",
+    "section": "疏散外风",
+    "formulaName": "消风散",
+    "verse": "消风散内用荆防，蝉蜕胡麻苦参苍；石知蒡通归地草，风疹湿疹服之康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "138",
+    "chapter": "治风剂",
+    "section": "疏散外风",
+    "formulaName": "牵正散",
+    "verse": "牵正散宜热酒下，白附全蝎与僵蚕；祛风化痰通经络，口眼㖞斜多能康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "139",
+    "chapter": "治风剂",
+    "section": "疏散外风",
+    "formulaName": "玉真散",
+    "verse": "玉真散治破伤风，牙关紧急角反弓；星麻白附羌防芷，外敷内服一方通。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "140",
+    "chapter": "治风剂",
+    "section": "平息内风",
+    "formulaName": "羚角钩藤汤",
+    "verse": "俞氏羚角钩藤汤，桑菊茯神鲜地黄；竹茹贝草同芍药，肝热生风急煎尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "141",
+    "chapter": "治风剂",
+    "section": "平息内风",
+    "formulaName": "天麻钩藤饮",
+    "verse": "天麻钩藤石决明，杜膝寄生与栀芩；夜藤茯神益母草，头痛眩晕失眠宁。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "142",
+    "chapter": "治风剂",
+    "section": "平息内风",
+    "formulaName": "镇肝熄风汤",
+    "verse": "镇肝熄风芍天冬，玄牡茵陈赭膝龙；龟甲麦芽甘草楝，肝风内动有奇功。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "143",
+    "chapter": "治风剂",
+    "section": "平息内风",
+    "formulaName": "大定风珠",
+    "verse": "大定风珠鸡子黄，胶芍三甲五味襄；麦冬生地麻仁草，滋阴息风是妙方。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "144",
+    "chapter": "治风剂",
+    "section": "平息内风",
+    "formulaName": "阿胶鸡子黄汤",
+    "verse": "阿胶鸡子黄汤好，地芍钩藤牡蛎草；决明茯神络石藤，阴虚风动此方保。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "145",
+    "chapter": "治燥剂",
+    "section": "轻宣外燥",
+    "formulaName": "杏苏散",
+    "verse": "杏苏散内夏陈前，枳桔苓甘姜枣研；轻宣温润治凉燥，理肺化痰咳自痊。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "146",
+    "chapter": "治燥剂",
+    "section": "轻宣外燥",
+    "formulaName": "桑杏汤",
+    "verse": "桑杏汤中象贝宜，沙参栀豉与梨皮；身热咽干咳痰少，辛凉甘润燥能医。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "147",
+    "chapter": "治燥剂",
+    "section": "轻宣外燥",
+    "formulaName": "清燥救肺汤",
+    "verse": "清燥救肺参草杷，石膏胶杏麦胡麻；经霜收下冬桑叶，温燥伤肺喘逆尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "148",
+    "chapter": "治燥剂",
+    "section": "滋润内燥",
+    "formulaName": "养阴清肺汤",
+    "verse": "养阴清肺麦地黄，玄参芍草贝丹襄；薄荷共煎利咽膈，阴虚白喉是妙方。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "149",
+    "chapter": "治燥剂",
+    "section": "滋润内燥",
+    "formulaName": "百合固金汤",
+    "verse": "百合固金二地黄，玄参贝母桔甘藏；麦冬芍药当归配，喘咳痰血肺家伤。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "150",
+    "chapter": "治燥剂",
+    "section": "滋润内燥",
+    "formulaName": "麦门冬汤",
+    "verse": "麦门冬汤用人参，枣草粳米半夏存；肺痿咳逆因虚火，滋养肺胃此方珍。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "151",
+    "chapter": "治燥剂",
+    "section": "滋润内燥",
+    "formulaName": "增液汤",
+    "verse": "增液汤用玄地冬，无水舟停下不通；或合硝黄作泻剂，补泄兼施妙不同。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "152",
+    "chapter": "治燥剂",
+    "section": "滋润内燥",
+    "formulaName": "玉液汤",
+    "verse": "玉液山药芪葛根，花粉知味鸡内金；消渴口干溲多数，补脾固肾益气阴。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "153",
+    "chapter": "祛湿剂",
+    "section": "化湿和胃",
+    "formulaName": "平胃散",
+    "verse": "平胃散用苍术朴，陈皮甘草四般药；燥湿运脾除胀满，调胃诸方从此扩。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "154",
+    "chapter": "祛湿剂",
+    "section": "化湿和胃",
+    "formulaName": "藿香正气散",
+    "verse": "藿香正气大腹苏，甘桔陈苓朴白术；夏曲白芷加姜枣，风寒暑湿岚瘴驱。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "155",
+    "chapter": "祛湿剂",
+    "section": "清热祛湿",
+    "formulaName": "三仁汤",
+    "verse": "三仁杏蔻薏苡仁，朴夏通草滑竹伦；水用甘澜扬百遍，湿温初起法堪遵。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "156",
+    "chapter": "祛湿剂",
+    "section": "清热祛湿",
+    "formulaName": "茵陈蒿汤",
+    "verse": "茵陈蒿汤治阳黄，栀子大黄组成方；湿热蕴结在肝胆，清热利湿退黄良",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "157",
+    "chapter": "祛湿剂",
+    "section": "清热祛湿",
+    "formulaName": "甘露消毒丹",
+    "verse": "甘露消毒蔻藿香，茵陈滑石木通菖；芩翘贝母射干薄，湿温时疫是主方。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "158",
+    "chapter": "祛湿剂",
+    "section": "清热祛湿",
+    "formulaName": "连朴饮",
+    "verse": "连朴饮内用香豉，菖蒲半夏焦山栀；芦根厚朴黄连入，湿热霍乱此方施。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "159",
+    "chapter": "祛湿剂",
+    "section": "清热祛湿",
+    "formulaName": "八正散",
+    "verse": "八正木通与车前，萹蓄大黄滑石研；草梢瞿麦兼栀子，煎加灯草痛淋蠲。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "160",
+    "chapter": "祛湿剂",
+    "section": "清热祛湿",
+    "formulaName": "当归拈痛汤",
+    "verse": "当归拈痛羌防升，猪泽黄芩葛茵陈；二术知苦人参草，湿热疡痹服皆应。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "161",
+    "chapter": "祛湿剂",
+    "section": "清热祛湿",
+    "formulaName": "二妙散",
+    "verse": "二妙散中苍柏兼，若云三妙牛膝添；四妙苡仁再加入，清热除湿痿痹痊。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "162",
+    "chapter": "祛湿剂",
+    "section": "利水渗湿",
+    "formulaName": "五苓散",
+    "verse": "五苓散治太阳腑，白术泽泻并猪茯；桂枝温通助气化，利水解表烦渴除。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "163",
+    "chapter": "祛湿剂",
+    "section": "利水渗湿",
+    "formulaName": "猪苓汤",
+    "verse": "猪苓汤内二苓全，泽泻阿胶滑石添；利水育阴兼泻热，溺秘心烦呕渴痊。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "164",
+    "chapter": "祛湿剂",
+    "section": "利水渗湿",
+    "formulaName": "防己黄芪汤",
+    "verse": "防己黄芪金匮方，术甘姜枣共煎尝；此治风水与诸湿，身重汗出服之良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "165",
+    "chapter": "祛湿剂",
+    "section": "利水渗湿",
+    "formulaName": "五皮散",
+    "verse": "五皮饮用五般皮，陈茯姜桑大腹奇；皮水苔白心腹满，水停气滞最相宜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "166",
+    "chapter": "祛湿剂",
+    "section": "温化水湿",
+    "formulaName": "苓桂术甘汤",
+    "verse": "苓桂术甘是经方，中阳不足痰饮猖；悸眩咳逆胸胁满，温阳化饮功效彰。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "167",
+    "chapter": "祛湿剂",
+    "section": "温化水湿",
+    "formulaName": "真武汤",
+    "verse": "真武温阳利水方，茯苓术芍附生姜；阳虚水饮停为患，悸眩瞤惕保安康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "168",
+    "chapter": "祛湿剂",
+    "section": "温化水湿",
+    "formulaName": "实脾散",
+    "verse": "实脾苓术与木瓜，甘草木香大腹加；草果附姜兼厚朴，虚寒阴水效堪夸。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "169",
+    "chapter": "祛湿剂",
+    "section": "温化水湿",
+    "formulaName": "萆薢分清饮",
+    "verse": "萆薢分清石菖蒲，萆薢乌药益智俱；或益茯苓盐水服，通心固肾浊精驱。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "170",
+    "chapter": "祛湿剂",
+    "section": "祛风胜湿",
+    "formulaName": "独活寄生汤",
+    "verse": "独活寄生艽防辛，芎归地芍桂苓均；杜仲牛膝人参草，风湿顽痹屈能伸。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "171",
+    "chapter": "祛湿剂",
+    "section": "祛风胜湿",
+    "formulaName": "羌活胜湿汤",
+    "verse": "羌活胜湿羌独芎，甘蔓藁本与防风；湿气在表头腰重，发汗升阳有殊功。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "172",
+    "chapter": "祛痰剂",
+    "section": "燥湿化痰",
+    "formulaName": "二陈汤",
+    "verse": "二陈汤用半夏陈，苓草姜梅一并存；燥湿化痰兼利气，湿痰为患此方珍。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "173",
+    "chapter": "祛痰剂",
+    "section": "燥湿化痰",
+    "formulaName": "温胆汤",
+    "verse": "温胆汤中苓夏草，枳竹陈皮加姜枣；虚烦不眠舌苔腻，此系胆虚痰热扰。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "174",
+    "chapter": "祛痰剂",
+    "section": "燥湿化痰",
+    "formulaName": "半夏白术天麻汤",
+    "verse": "半夏白术天麻汤，苓草橘红枣生姜；眩晕头痛风痰盛，化痰息风是效方。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "175",
+    "chapter": "祛痰剂",
+    "section": "清热化痰",
+    "formulaName": "清气化痰丸",
+    "verse": "清气化痰杏瓜蒌，茯苓枳芩胆星投；陈夏姜汁糊丸服，专治肺热咳痰稠。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "176",
+    "chapter": "祛痰剂",
+    "section": "清热化痰",
+    "formulaName": "小陷胸汤",
+    "verse": "小陷胸汤连夏蒌，宽胸散结涤痰优；痰热内结痞满痛，苔黄脉滑服之休。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "177",
+    "chapter": "祛痰剂",
+    "section": "清热化痰",
+    "formulaName": "滚痰丸",
+    "verse": "滚痰丸是逐痰方，礞石黄芩及大黄；少佐沉香为引导，实热顽痰一扫光。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "178",
+    "chapter": "祛痰剂",
+    "section": "润燥化痰",
+    "formulaName": "贝母瓜蒌散",
+    "verse": "贝母瓜蒌花粉研，陈皮桔梗茯苓添；呛咳咽干痰难咯，润肺化痰病自痊。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "179",
+    "chapter": "祛痰剂",
+    "section": "温化寒痰",
+    "formulaName": "苓甘五味姜辛汤",
+    "verse": "苓甘五味姜辛汤，咳嗽痰稀喜唾良；胸满脉迟苔白滑，肺寒留饮可煎尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "180",
+    "chapter": "祛痰剂",
+    "section": "温化寒痰",
+    "formulaName": "三子养亲汤",
+    "verse": "三子养亲祛痰方，芥苏莱菔共煎汤；大便实硬加蜂蜜，冬寒更可加生姜。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "181",
+    "chapter": "祛痰剂",
+    "section": "治风化痰",
+    "formulaName": "止嗽散",
+    "verse": "止嗽散用桔甘前，紫菀荆陈百部研；止咳化痰兼透表，姜汤调服不用煎",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "182",
+    "chapter": "祛痰剂",
+    "section": "治风化痰",
+    "formulaName": "定痫丸",
+    "verse": "定痫二茯贝天麻，丹麦陈远菖蒲夏；胆星蚕蝎草竹沥，姜汁琥珀与朱砂。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "183",
+    "chapter": "祛痰剂",
+    "section": "治风化痰",
+    "formulaName": "神仙解语丹",
+    "verse": "神仙解语白附菖，天南羌蝎远木香；面糊为丸薄荷下，化痰通络又息风。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "184",
+    "chapter": "消散化积剂",
+    "section": "消食导滞",
+    "formulaName": "保和丸",
+    "verse": "保和山楂莱菔曲，夏陈茯苓连翘取；炊饼为丸白汤下，消食和胃食积去。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "185",
+    "chapter": "消散化积剂",
+    "section": "消食导滞",
+    "formulaName": "枳实导滞丸",
+    "verse": "枳实导滞用大黄，芩连曲术茯苓襄；泽泻蒸饼糊丸服，湿热积滞力能攘。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "186",
+    "chapter": "消散化积剂",
+    "section": "消痞化积",
+    "formulaName": "枳实消痞丸",
+    "verse": "枳实消痞四君全，麦芽曲夏朴姜连；蒸饼糊丸消积满，消中有补两相兼。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "187",
+    "chapter": "消散化积剂",
+    "section": "消痞化积",
+    "formulaName": "健脾丸",
+    "verse": "健脾参术苓草陈，肉蔻香连合砂仁；楂肉山药曲麦炒，消补兼施此方应。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "188",
+    "chapter": "消散化积剂",
+    "section": "消散痈疮",
+    "formulaName": "仙方活命饮",
+    "verse": "仙方活命金银花，防芷归陈皂山甲；贝母花粉及乳没，赤芍甘草酒煎佳。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "189",
+    "chapter": "消散化积剂",
+    "section": "消散痈疮",
+    "formulaName": "阳和汤",
+    "verse": "阳和汤法治阴疽，贴骨流注鹤膝风；熟地鹿胶桂姜炭，麻黄白芥甘草从。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "190",
+    "chapter": "消散化积剂",
+    "section": "消散痈疮",
+    "formulaName": "犀黄丸",
+    "verse": "犀黄丸内用麝香，乳香没药共牛黄；乳岩流注肠痈等，正气未虚皆可尝。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "191",
+    "chapter": "消散化积剂",
+    "section": "消散痈疮",
+    "formulaName": "透脓散",
+    "verse": "透脓散治毒成脓，芪归山甲皂刺芎；程氏又加银蒡芷，更能速奏溃破功。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "192",
+    "chapter": "消散化积剂",
+    "section": "消散痈疮",
+    "formulaName": "大黄牡丹汤",
+    "verse": "金匮大黄牡丹汤，桃仁瓜子芒硝襄；肠痈初起腹按痛，泻热逐瘀散结肿。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "193",
+    "chapter": "消散化积剂",
+    "section": "消散痈疮",
+    "formulaName": "苇茎汤",
+    "verse": "苇茎汤是千金方，桃仁薏苡瓜仁襄；瘀热结肺成痈毒，清热排脓病自康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "194",
+    "chapter": "消散化积剂",
+    "section": "消癥散结",
+    "formulaName": "海藻玉壶汤",
+    "verse": "海藻玉壶带昆布，青陈二皮翘贝母；独活甘草夏归芎，消瘿散结效或睹。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "195",
+    "chapter": "消散化积剂",
+    "section": "消癥散结",
+    "formulaName": "软坚散结汤",
+    "verse": "软坚散结乳癖方，柴枳芎芍蒌红花；枯草青皮甘贝牡，天葵蚤休翘通甲。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "196",
+    "chapter": "消散化积剂",
+    "section": "消癥散结",
+    "formulaName": "桂枝茯苓丸",
+    "verse": "金匮桂枝茯苓丸，桃仁芍药和牡丹；等份为末蜜丸服，缓消癥块胎可安。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "197",
+    "chapter": "消散化积剂",
+    "section": "消癥散结",
+    "formulaName": "鳖甲煎丸",
+    "verse": "鳖甲煎丸疟母方，䗪虫鼠妇及蜣螂；蜂蜜石韦人参射，桂朴紫葳丹芍姜。瞿麦柴苓胶半夏，桃仁葶苈和硝黄；疟缠日久胁下硬，癥消积化保安康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "198",
+    "chapter": "驱虫剂",
+    "section": "驱虫剂",
+    "formulaName": "乌梅丸",
+    "verse": "乌梅丸用细辛桂，黄连黄柏及当归；人参椒姜及附子，温中寓清在安蛔。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "199",
+    "chapter": "驱虫剂",
+    "section": "驱虫剂",
+    "formulaName": "化虫丸",
+    "verse": "化虫丸可治诸虫，鹤虱白矾铅粉从；苦楝皮与槟榔子，每服五丸即见功。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "200",
+    "chapter": "驱虫剂",
+    "section": "驱虫剂",
+    "formulaName": "肥儿丸",
+    "verse": "肥儿丸内用使君，豆蔻香连曲麦槟；猪胆为丸热水下，虫疳食积一扫清。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "201",
+    "chapter": "涌吐剂",
+    "section": "涌吐剂",
+    "formulaName": "瓜蒂散",
+    "verse": "瓜蒂散中赤小豆，豆豉汁调配酸苦；逐邪涌吐功最捷，胸脘痰食服之佑。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "202",
+    "chapter": "涌吐剂",
+    "section": "涌吐剂",
+    "formulaName": "盐汤探吐方",
+    "verse": "盐汤探吐金匮方，干霍乱证宜急尝；宿食填脘气机阻，投用及时效最良。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "203",
+    "chapter": "涌吐剂",
+    "section": "涌吐剂",
+    "formulaName": "参芦饮",
+    "verse": "参芦饮是丹溪方，竹沥新加效更良；气虚体弱痰壅盛，服此得吐自然康。",
+    "mastery": "unfamiliar"
+  },
+  {
+    "id": "204",
+    "chapter": "涌吐剂",
+    "section": "涌吐剂",
+    "formulaName": "救急稀涎散",
+    "verse": "稀涎皂角与白矾，痰浊壅阻宜开关；中风痰闭口不语，涌吐通关证自缓。",
+    "mastery": "unfamiliar"
+  }
+]
